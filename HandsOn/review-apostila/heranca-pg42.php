@@ -36,11 +36,11 @@ class Conta
 
 class ContaCorrente extends Conta
 {
-	private $chequeEspecial = false;
+	public $chequeEspecial = false;
 	public function liberaChequeEspecial(){
 		$this->chequeEspecial = true;
 	}
-	private function gerarNroConta(){
+	public function gerarNroConta(){
 
 		$this->nroConta =  'cc' .rand();
 		var_dump ($nroConta);
