@@ -21,7 +21,7 @@ class Conta
 	}
 
 	public function verSaldo() {
-	die();
+
 		echo "<p>Saldo atual de R$ {$this->saldo} reais</p>";	
 	}
 	
@@ -72,10 +72,7 @@ $cc->liberaChequeEspecial();
 echo "</ hr>";
 
 echo "<p>Conta Poupança</p>";
-$cc = new ContaPoupanca('4linux', 20);
-$cc->verNroConta();
-$cc->verSaldo();
-$cc->previsaoProximoMes();
-
-
-?>
+$cp = new ContaPoupanca('4linux', 20);
+$cp->verNroConta();
+$cp->verSaldo();
+$cp->previsaoProximoMes();
