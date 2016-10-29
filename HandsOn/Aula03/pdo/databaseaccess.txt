@@ -1,0 +1,22 @@
+mysql -u root -p
+use aulapdo
+atabase changed
+mysql> select * from usuarios;
++----+-------------------+----------------+-------+
+| id | nome              | email          | senha |
++----+-------------------+----------------+-------+
+|  1 | Primeiro cadastro | primeiro@email | 1234  |
++----+-------------------+----------------+-------+
+1 row in set (0.00 sec)
+
+
+
+
+su postgres
+psql -U pdo -h localhost aulapdo
+
+select * from usuarios;
+ id |       nome        |     email      | senha 
+----+-------------------+----------------+-------
+  1 | Primeiro cadastro | primeiro@email | 1234
+(1 registro)
