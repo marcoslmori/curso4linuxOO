@@ -1,0 +1,21 @@
+05/11/2015
+
+pdo --> sintaxis de query sao padronizadas
+
+transactions - pag 162
+tratamento de erro
+
+pulado para aula de mvc pg 210
+
+model 
+view
+controller
+
+Model --> ela sabe o que tem que fazer mas nao sabe quando 
+view --> sabe o que tem mostrar mas nao sabe quando 
+controller --> sabe o quando 
+
+
+
+
+

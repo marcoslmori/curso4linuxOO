@@ -14,11 +14,6 @@
 	//or o resultado eh o mesmo
 	// $stmt->bindParam(":nome", $nome);
 
-	//$vars = array(
-	//		'email'=>'email tmt4',
-	//		'nome'=>'nomes tmt4',
-	//		'senha'=>'senha tmt4',
-	//		);
 			
 	$retorno = $stmt->execute();
 
