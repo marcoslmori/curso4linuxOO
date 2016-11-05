@@ -24,7 +24,7 @@
 			$this->tamanho = $tamanho;
 		}
 		protected function calcularArea() {
-			return pow(this->tamanho, 2);
+			return pow($this->tamanho, 2);
 		}
 	}
 
