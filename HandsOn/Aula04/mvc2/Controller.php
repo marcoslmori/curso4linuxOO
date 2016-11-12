@@ -1,6 +1,6 @@
 <?php
 
-	require('entity.php');
+	require('Entity.php');
 
 	class Controller{
 		private $model;

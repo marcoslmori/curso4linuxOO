@@ -1,11 +1,9 @@
 <?php
-	require('model.php');
-	require('view.php');
-	require('controller.php');
+	require('autoload.php');
 
 	$model = new Model();
 	$controller = new Controller($model);
-	$view = new view($model, $controller);
+	$view = new View($model, $controller);
 
 	if(isset($_GET['action']) AND isset($_GET['id'])){
 		echo $controller->{$_GET['action']}($_POST, $_GET['id']);
