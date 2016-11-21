@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Conta",
+				"ContaPoupanca"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sa",
+				"saldoInicial"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"co",
+				"coma_separated"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/forlinuxOO/curso4linuxOO/livro-pablo/outputpg34.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/metodos_abstratos_pg.49.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/heranca-pg47.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/classes-finais-pg52.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/heranca-pg42.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/pag36.php",
+		"/var/www/forlinuxOO/curso4linuxOO/HandsOn/review-apostila/pag35.php",
+		"/var/www/forlinux/curso4linux/aula6-rev/who/index.php",
+		"/var/www/forlinux/curso4linux/aula4-rev/pagina1-rev.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/pagina2-rev.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/pagina3-rev.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/pagina3.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/common.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/pagina4-rev.php",
+		"/var/www/forlinux/curso4linux/aula3/pagina4.php",
+		"/var/www/forlinux/curso4linux/aula3-rev/pagina4-implode-php-net.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/carros-rev.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/array/carros_db.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/carros2-rev.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/array/donos_carro.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/array/bootstrap.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/array/usuarios.php",
+		"/var/www/forlinux/curso4linux/aula2-rev/usuarios.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exercicio6-b.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exercicio6-a.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exemplo4-5-rev-while.php",
+		"/var/www/forlinux/curso4linux/aula1/calculadora.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exemplo5.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exemplo4.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exemplo3.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo3.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo1.php",
+		"/var/www/forlinux/curso4linux/aula1-rev/exemplo0.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo0.php",
+		"/var/www/forlinux/curso4linux/aula1/numerosprimos.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo6.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo5.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo4.php",
+		"/var/www/forlinux/curso4linux/aula0/example_4.php",
+		"/var/www/forlinux/curso4linux/aula0/example_6.php",
+		"/var/www/forlinux/curso4linux/aula0/example_7.php",
+		"/var/www/forlinux/curso4linux/aula0/example_5.php",
+		"/var/www/forlinux/curso4linux/aula0/example_8.php",
+		"/var/www/forlinux/curso4linux/aula0/example_9.php",
+		"/var/www/forlinux/curso4linux/aula1/requisitos da calculadora.txt",
+		"/var/www/forlinux/curso4linux/aula0/example_0-1.php",
+		"/var/www/forlinux/curso4linux/aula0/example_0.php",
+		"/var/www/forlinux/curso4linux/aula1/exemplo2.php",
+		"/etc/apache2/sites-available/forlinux.conf"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "introducao.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
